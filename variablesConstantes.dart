@@ -16,7 +16,8 @@ bool estadoDeVerdad = true;
 num numerito = 28;
 
 // palabra reservada final para declarar una constante
-final String saludo = "Bienvenido cabeza de pinga";
+final String saludo = "Bienvenido cabeza de nepe";
+bool? hola = null; // el ? permite que se le pueda asignar un valor nulo a una variable
 void main(){
     print(texto);
     print(texto+palabra);

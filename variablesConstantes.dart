@@ -5,7 +5,7 @@ var almacena valores sin especificar el tipo
 num para mnumeros
 */
 
-import 'dart:io';
+
 
 var texto = "hola gil";
 var numero = 78;

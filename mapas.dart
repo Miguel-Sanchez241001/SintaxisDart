@@ -10,5 +10,6 @@ Map<String,dynamic> persona = {
 
 void main(List<String> args) {
   print(persona.toString());
-  
+  persona.addAll({'nacionalidad':['Peruano','Mexicano']});
+  print(persona);
 }
